@@ -27,3 +27,7 @@ Proxy PAC URL
 Firewall
 
     Set-NetFirewallRule -DisplayGroup "ファイルとプリンターの共有" -Enabled True -Profile Private,Domain
+
+LGO.exe
+
+https://learn.microsoft.com/en-us/archive/blogs/secguide/lgpo-exe-local-group-policy-object-utility-v1-0

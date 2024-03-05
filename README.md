@@ -31,3 +31,5 @@ Firewall
 LGO.exe
 
 https://learn.microsoft.com/en-us/archive/blogs/secguide/lgpo-exe-local-group-policy-object-utility-v1-0
+
+https://www.microsoft.com/en-us/download/details.aspx?id=55319
